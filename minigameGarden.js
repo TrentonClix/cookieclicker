@@ -1,5 +1,5 @@
 ﻿var M={};
-M.parent=Game.Objects['Farm'];
+M.parent=Game.Objects['Mine'];
 M.parent.minigame=M;
 M.launch=function()
 {
